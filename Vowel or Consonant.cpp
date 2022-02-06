@@ -4,10 +4,11 @@ using namespace std;
 void solve(){
   char a;
   string s="aeiou";
+  string S="AEIOU";
   cin>>a;
   bool ans=false;
   for(int i=0;i<s.size();i++){
-    if (a==s[i]){
+    if (a==s[i] || a==S[i]){
       ans=true;
       break;
     }
@@ -16,6 +17,7 @@ void solve(){
     cout<<"Vowel"<<endl;
   else
     cout<<"Consonant"<<endl;
+
 }
 
 
