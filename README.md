@@ -8,5 +8,5 @@ LIST OF IMPORTANT PROGRAMS FOR CAMPUS PLACEMENTS OF VARIOUS COMPANIES
 5) Write a program to identify of the a number is positive or negative
 6) Write a program to identify if the number is Strong number or not
 7) Write a program to identify if the number is Perfect number or not
-8) Write a program to identify if the number is Palindrome or not
-9) Write a program to Add two fractions
+8) Write a program to identify if the number is Armstrong or not
+
