@@ -9,4 +9,5 @@ LIST OF IMPORTANT PROGRAMS FOR CAMPUS PLACEMENTS OF VARIOUS COMPANIES
 6) Write a program to identify if the number is Strong number or not
 7) Write a program to identify if the number is Perfect number or not
 8) Write a program to identify if the number is Armstrong or not
+9) Write a CPP program to convert total no of days into years, months, days
 
