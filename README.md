@@ -1,6 +1,8 @@
-# Placement_Questions
+<h1 align ="center">Placement Questions</h1>
 
 LIST OF IMPORTANT PROGRAMS FOR CAMPUS PLACEMENTS OF VARIOUS COMPANIES
+
+
 1) Write a program to identify if the character is a vowel or consonant
 2) Write a program to identify if the character is an alphabet or not
 3) Write a program to find Number of digits in an integer4
@@ -10,4 +12,5 @@ LIST OF IMPORTANT PROGRAMS FOR CAMPUS PLACEMENTS OF VARIOUS COMPANIES
 7) Write a program to identify if the number is Perfect number or not
 8) Write a program to identify if the number is Armstrong or not
 9) Write a CPP program to convert total no of days into years, months, days
+10) Write a program to identify if the number is Palindrome or not
 
